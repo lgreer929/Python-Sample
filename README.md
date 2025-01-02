@@ -20,8 +20,11 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 The data is provided by Instacart as Excel and Pickle files with the following parameters:
 
  ● Customers
+ 
  ● Orders
+ 
  ● Products
+ 
  ● Departments
 
 The data dictionary can be found here: [https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b] 
@@ -31,6 +34,7 @@ The data dictionary can be found here: [https://gist.github.com/jeremystan/c3b39
 The following python tools were used for this project:
 
  ● pandas, NumPy, and os - for data analysis
+ 
  ● matlpotlib, scipy, and seaborn - for data visualization
 
 # Executing the Code
